@@ -1,6 +1,6 @@
 ---
 name: workflow-html-beschreibung
-description: Dokumentiere den Entstehungsprozess eines Skills oder Workflows als strukturierte, valides HTML-Dokument mit klar gegliederten Phasen. Verwende bei "Workflow als HTML", "Prozess dokumentieren", "Phasen beschreiben", "Entstehungsprozess nachvollziehen" oder wenn Workflow-Schritte als HTML-Seite ausgegeben werden sollen.
+description: Dokumentiere den Entstehungsprozess eines Skills oder Workflows als strukturiertes, valides HTML-Dokument mit klar gegliederten Phasen. Verwende bei "Workflow als HTML", "Prozess dokumentieren", "Phasen beschreiben", "Entstehungsprozess nachvollziehen" oder wenn Workflow-Schritte als HTML-Seite ausgegeben werden sollen.
 ---
 
 # Workflow-Beschreibung als HTML
